@@ -9,9 +9,9 @@
 **Origin Repo => [Emoji Picker][origin-repo]**<br/>
 for installation and more information please go to **origin repository**
 
-
+<h1></h1>
 <div style="direction: rtl;margin-top: 5rem;">
-<img src="https://github.com/alisalehi1380/emoji-picker-rtl/assets/111766206/a8da6edc-79bd-4fbb-875d-61bd3afaefc4" style="text-align: right; max-width: 150px"/>
+<img src="https://github.com/alisalehi1380/emoji-picker-rtl/assets/111766206/a8da6edc-79bd-4fbb-875d-61bd3afaefc4" style="text-align: right; width: 100px"/>
 
 هیچگاه از خاطرمان نخواهی رفت. روحت شاد😔❤️
 </div>
