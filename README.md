@@ -3,11 +3,11 @@
 
 ![Example Screenshot][example-screenshot]
 
-**Demo:** https://js-emoji-picker.arifdev.com/
+**Demo:** https://alisalehi1380.github.io/emoji-picker-rtl/
 
-# ⚠️ Attention ⚠️
-**Origin Repo => [Emoji Picker][origin-repo]**<br/>
-for installation and more information please go to **origin repository**
+### ⚠️ Attention ⚠️
+
+for installation and more information please go to **[Origin Repository][origin-repo]** 
 
 <h1></h1>
 <div style="direction: rtl;margin-top: 5rem;">
